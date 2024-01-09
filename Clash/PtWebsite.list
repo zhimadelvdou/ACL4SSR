@@ -1,15 +1,13 @@
-# 作为个人自定义
+# 作为个人自定义直连list
 #
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,hddolby.com
-#DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdmayi.com
 DOMAIN-SUFFIX,hdvideo.one
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,nanyangpt.com
-#emotn store域名
-DOMAIN-SUFFIX,keeflys.com
-#DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdtime.org
 # 后续
 #
