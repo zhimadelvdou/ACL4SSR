@@ -1,5 +1,5 @@
 # 作为个人自定义直连list
-#
+# PT站点
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,zmpt.cc
@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,htpt.cc
+# miss
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,surrit.com
 # 后续
